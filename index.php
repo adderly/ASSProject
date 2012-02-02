@@ -1,3 +1,6 @@
+<?php
+?>
+
 
 <!DOCTYPE html>
 <html>
@@ -14,3 +17,5 @@
 		<div class="pics" id="previous" onclick="previous()"></div>
 	</body>
 </html>
+
+
